@@ -56,7 +56,7 @@ class AppSettings {
   static Future<List<String>> pickAndCropImages() async {
     final picker = ImagePicker();
     final images = await picker.pickMultiImage();
-    if (images == null || images.isEmpty) return [];
+    if (images.isEmpty) return [];
 
     List<String> croppedPaths = [];
     for (var image in images) {

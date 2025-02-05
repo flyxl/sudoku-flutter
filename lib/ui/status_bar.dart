@@ -5,7 +5,6 @@ import 'package:provider/provider.dart';
 import 'package:sudoku/model/sudoku_game_model.dart';
 import 'package:sudoku/ui/constants.dart';
 import 'package:sudoku/util/utils.dart';
-import 'package:flutter_gen/gen_l10n/app_localizations.dart';
 
 const ONE_SECOND = const Duration(seconds: 1);
 
