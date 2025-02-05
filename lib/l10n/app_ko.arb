@@ -1,0 +1,17 @@
+{ 
+  "appTitle": "스도쿠 게임", 
+  "mistakes": "실수 횟수：{count}", 
+  "usedTime": "사용 시간：{usedTime}", 
+  "slogan": "두뇌를 단련하는 것을 시작하세요!", 
+  "newGame": "새 게임", 
+  "difficulty": "난이도：{difficulty}", 
+  "fast": "빠른", 
+  "easy": "쉬운", 
+  "medium": "가운데", 
+  "hard": "어려운", 
+  "expert": "전문가",
+  "settings": "설정",
+  "backgroundImage": "배경 이미지",
+  "backgroundImageDesc": "홈페이지와 완료 페이지의 배경 이미지 선택",
+  "gameFailed": "게임 오버"
+} 

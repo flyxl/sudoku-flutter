@@ -1,0 +1,17 @@
+{
+  "appTitle": "數獨遊戲",
+  "mistakes": "錯誤次數：{count}",
+  "usedTime": "用時：{usedTime}",
+  "slogan": "開始鍛鍊你的大腦！",
+  "newGame": "新遊戲",
+  "difficulty": "難度：{difficulty}",
+  "fast": "快速",
+  "easy": "簡單",
+  "medium": "中等",
+  "hard": "困難",
+  "expert": "專家",
+  "settings": "設定",
+  "backgroundImage": "背景圖片",
+  "backgroundImageDesc": "選擇主頁和完成頁面的背景圖片",
+  "gameFailed": "遊戲結束"
+}

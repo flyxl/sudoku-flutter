@@ -1,0 +1,7 @@
+import 'dart:ui';
+
+const INPUT_COLOR = Color(0xFF0d63CA);
+const SELECTED_CELL_BG_COLOR = Color(0xFFA9CBFF);
+const INVALID_NUMBER_COLOR = Color(0xFFD53456);
+const RELATED_CELL_BG_COLOR = Color(0xFFF2F2F2);
+const MAIN_FONT_COLOR = Color(0xFF3A3A3A);

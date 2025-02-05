@@ -1,0 +1,17 @@
+{ 
+  "appTitle": "Juego de Sudoku", 
+  "mistakes": "Número de errores: {count}", 
+  "usedTime": "Tiempo utilizado: {usedTime}", 
+  "slogan": "¡Comience a ejercitar su cerebro!", 
+  "newGame": "Nuevo juego", 
+  "difficulty": "Dificultad: {difficulty}", 
+  "fast": "Rápido", 
+  "easy": "Fácil", 
+  "medium": "Medio", 
+  "hard": "Difícil", 
+  "expert": "Experto",
+  "settings": "Ajustes",
+  "backgroundImage": "Imagen de fondo",
+  "backgroundImageDesc": "Elegir imágenes de fondo para las páginas de inicio y finalización",
+  "gameFailed": "Juego terminado"
+} 

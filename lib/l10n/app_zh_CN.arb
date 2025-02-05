@@ -1,0 +1,16 @@
+{
+  "appTitle": "数独游戏",
+  "mistakes": "错误次数：{count}",
+  "usedTime": "用时：{usedTime}",
+  "slogan": "开始锻炼你的大脑！",
+  "newGame": "新游戏",
+  "difficulty": "难度：{difficulty}",
+  "fast": "快速",
+  "easy": "简单",
+  "medium": "中等",
+  "hard": "困难",
+  "expert": "专家",
+  "settings": "设置",
+  "backgroundImage": "背景图片",
+  "backgroundImageDesc": "选择主页和完成页面的背景图片"
+}

@@ -1,0 +1,37 @@
+{
+  "appTitle": "Sudoku Game",
+  "mistakes": "Mistakes: {count}",
+  "usedTime": "{usedTime}",
+  "slogan": "Start exercising your brain!",
+  "newGame": "New Game",
+  "difficulty": "Difficulty: {difficulty}",
+  "fast": "Fast",
+  "easy": "Easy",
+  "medium": "Medium",
+  "hard": "Hard",
+  "expert": "Expert",
+  "@mistakes": {
+    "count": {
+      "type": "int",
+      "example": "3"
+    }
+  },
+  "@usedTime": {
+    "usedTime": {
+      "type": "String",
+      "example": "10:29"
+    }
+  },
+  "@difficulty": {
+    "difficulty": {
+      "type": "String",
+      "example": "Easy"
+    }
+  },
+  "settings": "Settings",
+  "backgroundImage": "Background Image",
+  "backgroundImageDesc": "Choose background images for home and completion pages",
+  "maxErrors": "Maximum Errors",
+  "maxErrorsDesc": "Game ends when errors reach this number",
+  "gameFailed": "Game Over"
+}
